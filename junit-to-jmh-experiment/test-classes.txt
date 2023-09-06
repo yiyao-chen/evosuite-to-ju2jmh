@@ -1,0 +1,2 @@
+se.chalmers.ju2jmh.experiments.workloads.ToHexString_ESTest
+se.chalmers.ju2jmh.experiments.workloads.Sqrt_ESTest
