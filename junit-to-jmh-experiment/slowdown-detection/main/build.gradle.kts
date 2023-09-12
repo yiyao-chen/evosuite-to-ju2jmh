@@ -11,9 +11,9 @@ dependencies {
     implementation("com.github.javaparser", "javaparser-core", javaparserVersion)
 
 
-    implementation(files("../evosuite-1.2.0.jar"))
+    implementation(files("../../../evosuite-1.2.0.jar"))
 
-    implementation(files("../evosuite-standalone-runtime-1.2.0.jar"))
+    implementation(files("../../../evosuite-standalone-runtime-1.2.0.jar"))
 
 
     testImplementation("junit", "junit", jUnit4Version)
